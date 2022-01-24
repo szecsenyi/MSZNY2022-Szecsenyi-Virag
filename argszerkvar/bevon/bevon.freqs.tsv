@@ -1,0 +1,67 @@
+Az be+von ige korpuszgyakorisági adatai
+Az ige elõfordulási száma: 289
+A variánsok elõfordulási száma és gyakorisága
+2 variáns:	251	0.8685121107266436
+
+1 variáns:	38	0.1314878892733564
+
+Az argumentumtípusok elõfordulási számai és együttelõfordulási számai.
+	-	acc	VAL	BA
+acc	258.0	258.0	38.0	195.0
+VAL	41.0	38.0	41.0	6.0
+BA	219.0	195.0	6.0	219.0
+
+Az argumentumtípusok elõfordulási gyakorisága és együttelõfordulási gyakoriságai.
+	-	acc	VAL	BA
+acc	0.8927335640138409	0.8927335640138409	0.1314878892733564	0.6747404844290658
+VAL	0.14186851211072665	0.1314878892733564	0.14186851211072665	0.020761245674740483
+BA	0.7577854671280276	0.6747404844290658	0.020761245674740483	0.7577854671280276
+
+Az argumentumtípusok feltételes valószínûségei.
+sorcímke: A; oszlopcímke: B; cellatartalom: P(B|A)
+	acc	VAL	BA
+acc	1.0	0.14728682170542637	0.7558139534883721
+VAL	0.926829268292683	1.0	0.14634146341463414
+BA	0.8904109589041096	0.0273972602739726	1.0
+
+
+********************************************************
+Az argumentumtípusok elõfordulási számai és együttelõfordulási számai az 2 variáns esetében.
+	-	acc	VAL	BA
+acc	222.0	222.0	4.0	194.0
+VAL	5.0	4.0	5.0	5.0
+BA	218.0	194.0	5.0	218.0
+
+Az argumentumtípusok elõfordulási gyakorisága és együttelõfordulási gyakoriságai az 2 variáns esetében.
+	-	acc	VAL	BA
+acc	0.8844621513944223	0.8844621513944223	0.01593625498007968	0.7729083665338645
+VAL	0.0199203187250996	0.01593625498007968	0.0199203187250996	0.0199203187250996
+BA	0.8685258964143426	0.7729083665338645	0.0199203187250996	0.8685258964143426
+
+Az argumentumtípusok feltételes valószínûségei az 2 variáns esetében.
+sorcímke: A; oszlopcímke: B; cellatartalom: P(B|A)
+	acc	VAL	BA
+acc	1.0	0.018018018018018018	0.8738738738738738
+VAL	0.8	1.0	1.0
+BA	0.8899082568807339	0.022935779816513763	1.0
+
+
+********************************************************
+Az argumentumtípusok elõfordulási számai és együttelõfordulási számai az 1 variáns esetében.
+	-	acc	VAL	BA
+acc	36.0	36.0	34.0	1.0
+VAL	36.0	34.0	36.0	1.0
+BA	1.0	1.0	1.0	1.0
+
+Az argumentumtípusok elõfordulási gyakorisága és együttelõfordulási gyakoriságai az 1 variáns esetében.
+	-	acc	VAL	BA
+acc	0.9473684210526315	0.9473684210526315	0.8947368421052632	0.02631578947368421
+VAL	0.9473684210526315	0.8947368421052632	0.9473684210526315	0.02631578947368421
+BA	0.02631578947368421	0.02631578947368421	0.02631578947368421	0.02631578947368421
+
+Az argumentumtípusok feltételes valószínûségei az 1 variáns esetében.
+sorcímke: A; oszlopcímke: B; cellatartalom: P(B|A)
+	acc	VAL	BA
+acc	1.0	0.9444444444444444	0.027777777777777776
+VAL	0.9444444444444444	1.0	0.027777777777777776
+BA	1.0	1.0	1.0
