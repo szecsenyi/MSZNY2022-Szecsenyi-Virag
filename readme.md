@@ -1,11 +1,13 @@
 # Az ige helyhatározói bővítményeinek megkülönböztetése és az argumentumszerkezeti variánsok korpusz alapú szétválasztása
 ## A kutatáshoz tartozó korpuszadatok
-Szécsényi Tibor - Virág Nándor 2022: *Az ige helyhatározói bővítményeinek megkülönböztetése és az argumentumszerkezeti variánsok korpusz alapú szétválasztása*. In MSZNY 2022. Szeged, Szegedi Tudományegyetem.
+Szécsényi Tibor - Virág Nándor 2022: *Az ige helyhatározói bővítményeinek megkülönböztetése és az argumentumszerkezeti variánsok korpusz alapú szétválasztása*. In Berend Gábor - Gosztolya Gábor - Vincze Veronika (szerk.) XVIII. Magyar Számítógépes Nyelvészeti Konferencia. Szeged, Szegedi Tudományegyetem. 535-574.
 
 A depozitórium a kutatáshoz használt és a feldolgozás során nyert adatokat tartalmazza, az adatokat szolgáltató programokat nem.
 
 ### A könyvtár tartalma:
 A `Szecsenyi-Virag-MSZNY2022.pdf` a tanulmány preprint változata.  
+A `MSZNY2022-slides.pdf` a konferenciaelőadás prezentációja.  
+A `MSZNY2022-poster.pdf` a prezentáció poszterváltozata.  
 A `szeged-stat.xlsx` fájl a [Szeged Treebank](https://rgai.inf.u-szeged.hu/node/113) adatai alapján nyert tagmondatonkénti bővítménytípus-előfordulási számokat tartamazza.  
 A `locatives` könyvtár a *3. Helyhatározói esetragok eloszlási mintázatai* fejezet adatait tartalmazza.   
 Az `argszerkvar` könyvtár a *4. Argumentumszerkezeti variánsok elkülönítése* fejezet adatait tartalmazza.
